@@ -1,3 +1,9 @@
 [submodule "TBD"]
 	path = TBD
 	url = https://github.com/tony-w/Rasware2013.git
+[submodule "RASassins"]
+	path = RASassins
+	url = https://github.com/SaltedCashew/Rasware2013.git
+[submodule "DennysDestroyers"]
+	path = DennysDestroyers
+	url = https://github.com/agerome/Rasware2013.git
