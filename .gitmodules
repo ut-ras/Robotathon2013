@@ -7,3 +7,6 @@
 [submodule "DennysDestroyers"]
 	path = DennysDestroyers
 	url = https://github.com/agerome/Rasware2013.git
+[submodule "TotallyNotAWedge"]
+	path = TotallyNotAWedge
+	url = https://github.com/mcastorina/Rasware2013
